@@ -1,3 +1,2 @@
 I have created a makefile to run the game from the terminal. However, I have specified my path to JavaFx in order for it to run. Please change the path to your JavaFx location, and then run 'make Controller'. This should initialise the game, but due to its size, this may take a few seconds. Thank you. 
 
-NOTE: If you use zip downlaod all, the game contents are in the file 'Game.zip', this file contains the neccessary textures and makefile
