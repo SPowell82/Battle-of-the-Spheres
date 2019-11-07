@@ -3,4 +3,17 @@ Tank War is a 3D first person shooter made with java/java-fx in which the player
 
 # How to Play
 
-The game can be run from any terminal as long as javaFx is installed. I have included a makefile which specifies the path to the javaFx folders. In order to play the game, change this path to the location of your javaFx. 
+The game can be run from any terminal as long as javaFx is installed. I have included a makefile which specifies the path to the javaFx folders. In order to play the game, change this path to the location of your javaFx. After this, run 'make Controller' in your terminal or command line. This should initialise the game, but due to its size, this may take a few seconds. 
+
+# Game Controlls
+
+In order to play the game, the controlled are as follows:
+
+• UP Arrow: Moves Up
+• Right Arrow: Moves Right
+• Down Arrow: Moves Down
+• Left Arrow: Moves Left
+• ‘A’ key: Rotates Camera Left
+• ‘D’ key: Rotates Camera Right
+• 'SPACE' key: Firing ammunition
+
